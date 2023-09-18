@@ -57,5 +57,5 @@ export {
     saveUsuario,
     updateUsuario,
     deleteUsuario,
-    listUsuario
+    listUsuario 
 };
